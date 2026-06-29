@@ -1,5 +1,5 @@
 # Radar-Based Object Detection & Security System
-
+![Radar System Screenshot](radar_pic.jpeg)
 A real-time, interactive radar system built using hardware-software interfacing. The project uses an **Arduino Uno** to control physical sensors and a **Processing IDE** custom interface to visually map out obstacles in a 180-degree sweep area. 
 
 This project also functions as an automated security system, triggering visual and audible alerts using LEDs and a Buzzer when an object enters the critical safety zone.
